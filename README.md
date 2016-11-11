@@ -7,6 +7,6 @@ Learn and apply key concepts of modeling, analysis and validation from Machine L
 **Homework0:** Setup Environment  
 **Homework1:** KNN, Logistic Regression, Iteratively Reweighted Least Squares  
 **Homework2:** LDA, SVD, Naive Bayes Classifier  
-**Homework3:** Bag-of-words, K-means, PCA, Association Rules  
+**Homework3:** Bag-of-words, K-means, PCA, Association Rules, Gaussian Misture  
 **Homework4:** Random Forest, Boosting, CNN  
 **Final Project:**   
