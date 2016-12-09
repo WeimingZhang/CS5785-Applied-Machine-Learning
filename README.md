@@ -9,4 +9,4 @@ Learn and apply key concepts of modeling, analysis and validation from Machine L
 **Homework2:** LDA, SVD, Naive Bayes Classifier  
 **Homework3:** Bag-of-words, K-means, PCA, Association Rules, Gaussian Misture  
 **Homework4:** Random Forest, Boosting, CNN  
-**Final Project:**   
+**Final Project:** Image Search With Text Description   
